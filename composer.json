@@ -1,11 +1,12 @@
 {
-    "name": "xegerri/laravel-passport-api-server-base-project",
-    "description": "Laravel Passport-Protected API Server base project.",
-    "authors": [
-        {
-            "name": "xegerri",
-            "email": "thegrandcryptarch@tuta.io"
-        }
-    ],
-    "require": {}
+	"name" : "xegerri/laravel-passport-api-server-base-project",
+	"description" : "Laravel Passport-Protected API Server base project.",
+	"authors" : [{
+			"name" : "xegerri",
+			"email" : "thegrandcryptarch@tuta.io"
+		}
+	],
+	"require" : {
+		"laravel/passport" : "^10.1"
+	}
 }
